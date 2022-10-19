@@ -34,3 +34,11 @@ h1 {
 .circle:hover {
   opacity: 1;
 }
+
+.back {
+  width: 180px;
+  height: 500px;
+  background-color: black;
+  padding: 10px;
+  margin: auto;
+}
